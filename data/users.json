@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "demo-user-1776374058012",
+    "name": "Gauraang Thakkar",
+    "email": "gauraangsthakkar@gmail.com",
+    "phone": "9022013489",
+    "password": "162b4c38e27bd7869eb8eb69f5f981e4:1845fb3d4f3e2067f0a95d75122c17d76a801423a49a4a295311558fb770bd1a61ac488256213f1ee3055f803fbbcf960d819ee7b15f3781f392b5d5ba547a20",
+    "role": "user",
+    "createdAt": "2026-04-16T21:14:18.066Z",
+    "updatedAt": "2026-04-16T21:14:28.932Z"
+  },
+  {
+    "_id": "demo-user-admin",
+    "name": "Boutique Owner",
+    "email": "owner@radheboutique.com",
+    "phone": "",
+    "password": "35143b1b89f41881f65cb59115d5525f:2f6ae21fb5ecf775d68d53de924e5b9a37386364bc0e34346fa362f0bc67338218f42cb1bdb80d535981f852603271a0b409555551fb0005829b35eeb399527a",
+    "role": "admin",
+    "createdAt": "2026-04-16T21:13:25.808Z",
+    "updatedAt": "2026-04-16T21:13:25.808Z"
+  }
+]
